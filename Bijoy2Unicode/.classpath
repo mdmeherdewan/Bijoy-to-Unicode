@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/fontbox-2.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/pdfbox-2.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/ForPdfTable/aspose-cells-7.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/ForPdfTable/bcmail-jdk15-1.44.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/ForPdfTable/bcprov-jdk15-1.44.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/ForPdfTable/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/ForPdfTable/commons-csv-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/ForPdfTable/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/ForPdfTable/fontbox-1.8.10.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/ForPdfTable/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/ForPdfTable/jempbox-1.8.10.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/ForPdfTable/jsi-1.1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/ForPdfTable/pdfbox-1.8.10.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/ForPdfTable/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/ForPdfTable/slf4j-simple-1.6.4.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/ForPdfTable/tabula-0.9.0.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/sts/sts/STS_workspace/Bijoy2Unicode/lib/ForPdfTable/trove4j-3.0.3.jar"/>
+	<classpathentry kind="output" path="out/production/Bijoy2Unicode"/>
+</classpath>
